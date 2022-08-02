@@ -15,7 +15,7 @@ Disque).
 - La 1ère colonne est une variable quantitative (variable dépendante) qui correspond 
 au nombre de points obtenus par chaque athlète.
 
-### Resume
+### Résumé
 L’objectif de l’ACP est de condenser l'information contenu dans le tableau de 
 données par une analyse des corrélations linéaires entre les variables et une 
 visualisation graphique des distances entre les individus. 
