@@ -14,3 +14,13 @@ correspondent aux performances des athlètes pour les dix épreuves du Décathlo
 Disque).
 - La 1ère colonne est une variable quantitative (variable dépendante) qui correspond 
 au nombre de points obtenus par chaque athlète.
+
+### Resume
+L’objectif de l’ACP est de condenser l'information contenu dans le tableau de 
+données par une analyse des corrélations linéaires entre les variables et une 
+visualisation graphique des distances entre les individus. 
+L'ACP nous a permis de :
+- représenter les données en deux dimensions ;
+- établir des profils des athlètes ;
+- mettre au jour des corrélations entre des variables;
+- dégager les liaisons entre variables et les ressemblances entre individus.
