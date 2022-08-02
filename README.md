@@ -1,5 +1,8 @@
 # Projet Analyse de données
 
+On peut expliquer les points obtenus dans une compétition de jeux 
+olympiques, en fonction des performances des athlètes.
+
 ### About Dataset
 ![Decathlon](https://user-images.githubusercontent.com/93741954/182478720-aea202d1-a56d-4f05-b787-b15a782fc1fc.jpg)
 Notre jeu de données Décathlon contient les performances réalisées par des athlètes 
