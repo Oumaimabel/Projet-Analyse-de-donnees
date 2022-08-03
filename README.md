@@ -41,7 +41,7 @@ d’organiser les clusters dans une hiérarchie naturelle.
 - Coté avantages, pour le kmeans, y a toujours la convergence qui est garanti, et pour la 
 CAH, elle facilite le traitement de toute forme de similitude ou de distance, par conséquent, elle 
 est applicables à tous les types d’attributs.
--Coté désavantages, pour le kmeans, c’est parfois difficile de prévoir le nombre de classe, 
+- Coté désavantages, pour le kmeans, c’est parfois difficile de prévoir le nombre de classe, 
 et pour la CAH, le clustering hiérarchique nécessite le calcul et le stockage d'une matrice de 
 distance n × n. Pour les très grands ensembles de données, cela peut être coûteux et lent.
 
